@@ -1,0 +1,1 @@
+ALTER TABLE "accounts" ADD COLUMN "country_id" text NOT NULL;
